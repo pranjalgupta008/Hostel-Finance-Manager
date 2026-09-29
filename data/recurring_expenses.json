@@ -1,0 +1,8 @@
+[
+    {
+        "name": "vending machine",
+        "amount": 300.0,
+        "frequency": "Weekly",
+        "next_due_date": "13-09-2026"
+    }
+]
